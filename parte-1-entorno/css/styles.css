@@ -45,3 +45,11 @@ footer {
   background-color: #21295C;
   color: #ffffff;
 }
+section {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+section:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(200, 0, 255, 0.2);
+}
