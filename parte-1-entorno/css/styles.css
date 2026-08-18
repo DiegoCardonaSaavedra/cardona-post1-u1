@@ -53,3 +53,8 @@ section:hover {
   transform: translateY(-5px);
   box-shadow: 0 8px 20px rgba(200, 0, 255, 0.2);
 }
+section:hover {
+  border-left-color: #065A82;
+  background-color: #E8F4F8;
+  transition: background-color 0.3s ease;
+}
