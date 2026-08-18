@@ -7,7 +7,14 @@ Repositorio del laboratorio de la Unidad 1 de Programación Web — Séptimo Sem
 ## Parte 1 — Entorno de desarrollo
 
 Página HTML básica inspeccionada con Chrome DevTools. Ver `parte-1-entorno/`.
+### Instalación y ejecución
 
+1. Clonar el repositorio desde GitHub.
+2. Abrir la carpeta del repositorio en Visual Studio Code.
+3. Entrar en la carpeta `parte-1-entorno/`.
+4. Abrir el archivo `index.html`.
+5. Ejecutar la página directamente en Google Chrome o utilizar la extensión Live Server de Visual Studio Code.
+6. Abrir las herramientas de desarrollador de Chrome con `F12` para inspeccionar la página y analizar las peticiones HTTP.
 ## Parte 2 — Análisis de peticiones HTTP
 
 | # | Tipo | URL | Código |
